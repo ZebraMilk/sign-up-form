@@ -39,10 +39,14 @@
   justify-content: center;
 }
 
-.text.container {
+.right-content {
   padding: 3rem 12rem 3rem 1rem;
   background-color: rgb(22, 22, 87, 1);
-  box-shadow: 1rem 1rem 2rem #000;
+  box-shadow: 0 .5rem .8rem #000;
+
+}
+
+.text.container {
 }
 
 p {
